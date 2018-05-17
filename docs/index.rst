@@ -6,9 +6,11 @@
 module-documentation
 ================================================
 This repository uses readthedocs to publish documentation.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents
+
    modules/sample_module
 
 
