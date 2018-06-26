@@ -17,8 +17,7 @@ This repository uses readthedocs to publish documentation.
    :maxdepth: 2
    :caption: Readme in markdown
 
-   readme
-   readmeinrst
+   readmedocs/*
 
 
 Indices and tables
