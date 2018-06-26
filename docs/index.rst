@@ -26,7 +26,7 @@ This repository uses readthedocs to publish documentation.
    :maxdepth: 2
    :caption: Star way
 
-   readmedocs/*
+   readmedocs
 
 
 Indices and tables
