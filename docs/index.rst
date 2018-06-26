@@ -12,11 +12,6 @@ This repository uses readthedocs to publish documentation.
    :caption: Contents
 
    modules/sample_module
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Readme in markdown
-
    readmedocs/*
 
 
