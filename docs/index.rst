@@ -12,7 +12,14 @@ This repository uses readthedocs to publish documentation.
    :caption: Contents
 
    modules/sample_module
-   readmedocs/
+   readmedocs/readmeinrst
+  
+.. toctree::
+   :maxdepth: 2
+   :caption: Module Documentation
+
+   modules/sample_module
+   readmedocs/readmeinrst
 
 
 Indices and tables
