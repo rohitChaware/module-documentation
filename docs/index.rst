@@ -18,6 +18,7 @@ This repository uses readthedocs to publish documentation.
    :caption: Readme in markdown
 
    readme.md
+   readmeinrst.rst
 
 
 Indices and tables
