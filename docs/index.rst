@@ -26,7 +26,7 @@ This repository uses readthedocs to publish documentation.
    :maxdepth: 2
    :caption: MD files
 
-   readmedocs/readme.md
+   readmedocs/readme
 
 
 Indices and tables
