@@ -20,6 +20,7 @@ This repository uses readthedocs to publish documentation.
 
    modules/sample_module
    readmedocs/readmeinrst
+   readmedocs/sample_module
 
 
 Indices and tables
