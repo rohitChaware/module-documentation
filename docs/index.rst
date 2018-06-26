@@ -24,9 +24,9 @@ This repository uses readthedocs to publish documentation.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Star way
+   :caption: MD files
 
-   readmedocs
+   readmedocs/readme.md
 
 
 Indices and tables
