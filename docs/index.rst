@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-module-documentation
+module-documentation - https://github.com/rohitChaware/module-documentation
 ================================================
 This repository uses readthedocs to publish documentation.
 
