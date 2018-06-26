@@ -12,7 +12,7 @@ This repository uses readthedocs to publish documentation.
    :caption: Contents
 
    modules/sample_module
-   readmedocs/*
+   readmedocs
 
 
 Indices and tables
