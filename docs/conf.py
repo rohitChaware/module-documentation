@@ -23,7 +23,7 @@ source_parsers = {
 
 # -- Project information -----------------------------------------------------
 
-project = 'module-documentation'
+project = 'sample-module-documentation'
 copyright = '2018, Rohit Chaware'
 author = 'Rohit Chaware'
 
