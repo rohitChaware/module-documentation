@@ -22,6 +22,12 @@ This repository uses readthedocs to publish documentation.
    readmedocs/readmeinrst
    readmedocs/sample_module
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Star way
+
+   readmedocs/*
+
 
 Indices and tables
 ==================
